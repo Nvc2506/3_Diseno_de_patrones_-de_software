@@ -1,2 +1,2 @@
-# 3_Diseno_de_patrone_-de_software
+# 3_Diseno_de_patrones_-de_software
 Apoyo 
